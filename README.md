@@ -24,7 +24,7 @@ Open terminal and try execute some kali linux commands
 ### IP ADDRESS OF METASPLOIT
 ![alt text](ifcon.png)
 
-### METASPLOI PAGE
+### METASPLOIT PAGE
 ![alt text](<meta 1.png>)
 
 ### MUTILLIDAE PAGE
